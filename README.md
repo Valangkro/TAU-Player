@@ -1,2 +1,12 @@
-# 3DM-Player
-3DM Player for Windows - binary releases (closed source)
+# 3DM Player
+
+Windows desktop music player. **Closed source** — this repo hosts release binaries only.
+
+## Download
+
+Grab **`tau-player.exe`** from [Releases](https://github.com/Valangkro/3DM-Player/releases/latest).
+
+- Windows 10/11 64-bit
+- Portable — download and run, no install needed
+
+> 소스코드는 비공개입니다. 실행 파일만 배포합니다.
